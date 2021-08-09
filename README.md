@@ -8,9 +8,11 @@ Personal solution of exercises in《The Go Programming Language》
 
 ## GUIDE
 
-I organize the code using go mod. So just download the code, and using whole folder as workspace.
-Each chapter has owe folder, and each exercise has a folder in chapter folder too.
-Not exercise folders are which used in exercises, like `ch2/tempconv`
+I organize the code with go mod. So after downloading the code, you need to use the whole folder as workspace,
+otherwise there may be dependency errors.
+
+Each chapter has own folder, and each exercise in chapter folder has a folder too.
+Non exercise folders exist as packages imported by exercises, eg. `ch2/tempconv`.
 
 ## PROGRESS
 
