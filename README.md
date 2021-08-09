@@ -1,6 +1,6 @@
 # gopl_exercise
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square)](https://github.com/ivandelabeldad/the-go-programming-language/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square)](https://github.com/dkl78167816/gopl_exercise/blob/master/LICENSE)
 
 《Go语言圣经》/《Go程序设计语言》练习题个人解答
 
@@ -33,7 +33,7 @@ Not exercise folders are which used in exercises, like `ch2/tempconv`
 
 ## License
 
-The repository is open-sourced software licensed under the [MIT license](https://github.com/ivandelabeldad/the-go-programming-language/blob/master/LICENSE).
+The repository is open-sourced software licensed under the [MIT license](https://github.com/dkl78167816/gopl_exercise/blob/master/LICENSE).
 
 ---
 
